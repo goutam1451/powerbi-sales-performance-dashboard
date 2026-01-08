@@ -16,6 +16,7 @@ To analyze sales performance across regions, products, and time to support busin
 - Excel / CSV
 
 ## Dashboard Preview
+<img width="1073" height="607" alt="image" src="https://github.com/user-attachments/assets/e3582d33-639e-4221-881c-57d6437467c5" />
 
 
 ## How to Use
